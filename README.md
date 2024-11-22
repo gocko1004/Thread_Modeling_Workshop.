@@ -1,6 +1,6 @@
 # AI Threat Modelling Workshop Summary
 ## Introduction
-A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360..
+A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360.
 ## Attendess
 Care Connect Eng team, Product Managers, DevEx Engineers and the DevSecOps Team.
 ## Scope
